@@ -1,0 +1,1 @@
+Aligns a molecular structure's internal coordinates onto a Cartesian frame, by performing rotations according to the Euler angles.
